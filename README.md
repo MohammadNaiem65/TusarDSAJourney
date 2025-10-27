@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.png" alt="Cover Image" />
+  <img src="./assets/day_1.png" alt="Cover Image" />
 </p>
 
 🚀 #TusarDSAJourney is my personal documentation of learning Data Structures & Algorithms (DSA) — one day at a time.
