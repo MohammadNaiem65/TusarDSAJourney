@@ -2,21 +2,12 @@
   <img src="./assets/day_1.png" alt="Cover Image" />
 </p>
 
-🚀 #TusarDSAJourney is my personal documentation of learning Data Structures & Algorithms (DSA) — one day at a time.
+📅 Day 01 of my #TusarDSAJourney  
+📚 Topic: Basics of DSA, Space & Time Complexity  
+💪 Challenge Solved: [Pattern Problems](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
 
-I’m sharing my daily progress, insights, and problem-solving experiences as I strengthen my foundations in algorithms, data organization, and efficient coding. My daily progress can be found in this repository, or on my [LinkedIn](https://www.linkedin.com/in/rifat-ahmed-tusar/) profile and [Facebook](https://www.facebook.com/share/p/1BS6QfvbuG/).
+🧠 What I Learned: First of all, understanding the importance of data structures and algorithms in problem-solving gave the realization how much it can also help me in Frontend Development and decide optimal data structure for my states. Also, how to compare multiple solutions using space & time complexity.
 
-Through this series, I aim to:
+📃 Extras: I decided to use TypeScript for DSA as I am JavaScript developer and TypeScript will give me the flavour of a hardly typed low level language. Also, to make me more confident with type system, I took the [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) course by Mat Pocock and got [this](https://drive.google.com/file/d/1Y3HekYaSfUkbBb8K25Y2RqLX2_WtzQDK/view?usp=sharing) certificate.
 
--   Build a strong problem-solving mindset
--   Improve my coding speed and logic
--   Inspire others who are also learning DSA
--   Track my growth publicly and stay accountable
-
-Each post in this series will cover a small step, from arrays and recursion to dynamic programming and graphs — along with key takeaways and reflections.
-
-Whether you’re a beginner or already deep into DSA, I hope these posts motivate you to keep learning and improving every day.
-
-🧠 Follow along the hashtag #TusarDSAJourney to see all my posts in one place!
-
-Let’s grow together 💪
+#DSARecursion #CodingJourney #LearnInPublic
